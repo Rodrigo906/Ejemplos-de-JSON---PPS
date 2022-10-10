@@ -1,7 +1,7 @@
 /*****
 
   # Comida y medidas_antropometricas(perimetros y pliegues) son opcionales.
-  # Recordar que comida, perimetros y pliegues son procesados como lista aunque contengan un unico elemento.
+  # Recordar que comida, perimetros y pliegues son procesados como listas aunque contengan un unico elemento.
 
 ******/
 
