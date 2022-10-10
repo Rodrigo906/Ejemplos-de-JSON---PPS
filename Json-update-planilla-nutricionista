@@ -1,0 +1,43 @@
+/*****
+
+  # Comida y medidas_antropometricas(perimetros y pliegues) son opcionales.
+  # Recordar que comida, perimetros y pliegues son procesados como lista aunque contengan un unico elemento.
+
+******/
+
+{
+    "comida": [
+      {
+        "id_comida": "6",
+        "nombre": "Pastel de papa",
+        "fecha": "2022-09-24 00:29:25.000000",
+        "id_nutriente": "3"
+      }
+    ],
+    "medidas_antropometricas": {
+      "medidas": {
+          "estatura": "189.11",
+          "peso": "92.74",
+          "fecha": "2022-09-22"
+      },
+      "perimetros": [
+        {
+          "id_perimetros": "7",
+          "id_zona": "3",
+          "valor_medida": "15.4"
+        },
+        {
+          "id_perimetros": "8",
+          "id_zona": "1",
+          "valor_medida": "30.2"
+        }
+      ],
+      "pliegues": [
+        {
+          "id_pliegues": "2",
+          "id_zona": "8",
+          "valor_medida": "4.5"
+        }
+      ]
+    }
+}
