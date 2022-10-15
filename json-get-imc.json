@@ -1,0 +1,17 @@
+/***
+  Retorna una lista con los promedios de IMC (indice de masa corporal) por mes del deportista pasado por parametro.
+***/
+
+{
+  "success": true,
+  "imcs": [
+    {
+      "imc": "26.015478544585797",
+      "month": "September"
+    },
+    {
+      "imc": "23.437499999999996",
+      "month": "October"
+    }
+  ]
+}
