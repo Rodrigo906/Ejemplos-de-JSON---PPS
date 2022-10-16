@@ -1,0 +1,37 @@
+/***
+  # Se retorna los datos de la planilla (id, fecha), datos del profesional, del deportista y 
+  una lista de tests.
+***/
+
+{
+  "success": true,
+  "planilla": {
+    "id": "1",
+    "fecha": "2022-09-23",
+    "preparador_fisico": {
+      "email": "ramon@gmail.com",
+      "nombre": "Ramon",
+      "apellido": "Gimenez",
+      "fecha_nacimiento": "2002-06-02",
+      "estado": "Activo",
+      "rol": "Preparador Fisico"
+    },
+    "deportista": {
+      "email": "anacleto@gmail.com",
+      "nombre": "Anacleto",
+      "apellido": "Perez",
+      "fecha_nacimiento": "2002-10-04",
+      "estado": "Activo",
+      "rol": "Deportista"
+    },
+    "tests": [
+      {
+        "id_test": "5",
+        "fecha": "2022-09-23",
+        "valoraciones": "Arranque lento",
+        "id_tipo": "2",
+        "nombre": "Velocidad"
+      }
+    ]
+  }
+}
