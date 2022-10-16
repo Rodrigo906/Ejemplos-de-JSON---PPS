@@ -1,0 +1,17 @@
+/***
+  # "tests" es procesado como array aunque contenga un unico test
+  # "valoracion" es un string cualquiera
+  # "id_tipo" es el tipo de test
+***/
+
+{
+    "fecha": "2022-09-23",
+    "tests": [
+      {
+        "id_test": "5",
+        "fecha": "2022-09-24",
+        "valoracion": "Arranque lento",
+        "id_tipo": "2"
+      }
+    ]
+}
