@@ -2,10 +2,12 @@
 
   # Comida y medidas_antropometricas(perimetros y pliegues) son opcionales.
   # Recordar que comida, perimetros y pliegues son procesados como listas aunque contengan un unico elemento.
+  # user_id se usa para validar que el usuario es propietario de la planilla que intenta actualizar.
 
 ******/
 
-{
+{   
+    "user_id": 1,
     "comida": [
       {
         "id_comida": "6",
