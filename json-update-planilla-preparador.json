@@ -1,10 +1,12 @@
 /***
+  # user_id se usa para validar que el usuario es propietario de la planilla que intenta actualizar.
   # "tests" es procesado como array aunque contenga un unico test
   # "valoracion" es un string cualquiera
   # "id_tipo" es el tipo de test
 ***/
 
 {
+    "user_id": 8,
     "fecha": "2022-09-23",
     "tests": [
       {
