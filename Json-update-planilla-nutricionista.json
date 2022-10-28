@@ -1,26 +1,25 @@
 /*****
 
-  # Comida y medidas_antropometricas(perimetros y pliegues) son opcionales.
+  # Comida y medidas_antropometricas(perimetros y pliegues) son opcionales. Sin embargo "medidas" es obligatorio.
   # Recordar que comida, perimetros y pliegues son procesados como listas aunque contengan un unico elemento.
   # user_id se usa para validar que el usuario es propietario de la planilla que intenta actualizar.
 
 ******/
 
-{   
+{
     "user_id": 1,
+    "fecha": "2022-09-22",
     "comida": [
       {
         "id_comida": "6",
         "nombre": "Pastel de papa",
-        "fecha": "2022-09-24 00:29:25.000000",
         "id_nutriente": "3"
       }
     ],
     "medidas_antropometricas": {
       "medidas": {
           "estatura": "189.11",
-          "peso": "92.74",
-          "fecha": "2022-09-22"
+          "peso": "92.74"
       },
       "perimetros": [
         {
