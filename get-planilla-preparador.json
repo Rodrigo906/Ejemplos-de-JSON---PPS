@@ -27,7 +27,6 @@
     "tests": [
       {
         "id_test": "5",
-        "fecha": "2022-09-23",
         "valoraciones": "Arranque lento",
         "id_tipo": "2",
         "nombre": "Velocidad"
