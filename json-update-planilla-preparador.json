@@ -11,7 +11,6 @@
     "tests": [
       {
         "id_test": "5",
-        "fecha": "2022-09-24",
         "valoracion": "Arranque lento",
         "id_tipo": "2"
       }
