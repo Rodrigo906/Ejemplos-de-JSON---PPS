@@ -4,8 +4,8 @@
     "fecha": "2022-09-22",
     "comida": [
       {
-        "nombre": "Pastel de papa",
-        "id_nutriente": "2"
+        "fecha": "2022-12-06 15:27:07.000000",
+        "id_tipo_comida": "1"
       }
     ],
     "medidas_antropometricas": {
